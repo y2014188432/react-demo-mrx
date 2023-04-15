@@ -1,0 +1,11 @@
+.right_main {
+  width: 100%;
+  height: 100%;
+  /*background-color: darkslategrey;*/
+}
+.right_link {
+  width: 100%;
+  height: 22%;
+  /*background-color: cadetblue;*/
+  margin-bottom: 3%;
+}

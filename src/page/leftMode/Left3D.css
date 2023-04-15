@@ -1,0 +1,11 @@
+.left_3d_main {
+  width: 100%;
+  height: 100%;
+
+}
+.left_3d_body {
+  height: 100%;
+  width: 80%;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
